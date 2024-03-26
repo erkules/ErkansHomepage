@@ -22,7 +22,7 @@ Ich habe hier mal die imho bekanntesten Kunden aufgelistet.
 * Berenberg
 * BGU
 * Bundesdruckerei
-* Deutesche Telekom
+* Deutsche Telekom
 * Deutsche Bahn
 * GoDaddy
 * HDI
