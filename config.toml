@@ -1,0 +1,78 @@
+baseURL = "https://linsenraum.de/"
+languageCode = "de-de"
+title = "Erkan Yanar IT Consulting"
+theme = "hugo-hero-theme"
+
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.92.0"
+    
+[params]
+  google_analytics_id=""
+
+  [params.logo]
+    mobile = "images/logo.png"
+    mobile_height = "36px"
+    mobile_width = "36px"
+    desktop = "images/logo.png"
+    desktop_height = "29px"
+    desktop_width = "217px"
+    alt = "Erkan Yanar IT-Consulting"
+
+  [params.homepage_meta_tags]
+    meta_description = "Workshops, Schulungen und Projekte mit und im Kubernetes Universum"
+#    meta_og_title = "Erkan Yanar IT-Consulting"
+#    meta_og_type = "website"
+#    meta_og_url = "https://hugo-hero.netlify.app"
+#    meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-hero-theme/master/images/tn.png"
+#    meta_og_description = "Hero is a multipurpose Hugo theme with fullscreen hero images and page sections. It contains content types for a business or portfolio site."
+#    meta_twitter_card = "summary"
+#    meta_twitter_site = "@zerostaticio"
+#    meta_twitter_creator = "@zerostaticio"
+
+#[[menu.main]]
+#	name = "Services"
+#	url = "/services/"
+#    weight = 1
+
+[[menu.main]]
+	name = "Blog"
+	url = "/blog/"
+    weight = 1
+
+[[menu.main]]
+	name = "Schulungen"
+	url = "/workshops/"
+    weight = 2
+
+[[menu.main]]
+    name = "Vorträge etc."
+    url = "/oeffentlich/"
+    weight = 2
+
+[[menu.main]]
+    name = "Projekte"
+    url = "/projekte/"
+    weight = 2
+
+
+[[menu.main]]
+    name = "Ich"
+    url = "/ich/"
+    weight = 3
+
+
+[[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 4
+
+[[menu.main]]
+    name = "Impressum"
+    url = "/impressum/"
+    weight = 4
+
+[permalinks]
+  post = "/:year/:month/:day/:slug/"
+  pages = "/:filename/"

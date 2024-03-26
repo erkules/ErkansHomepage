@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hallo Welt on Erkan IT Consulting</title>
+    <link>https://www.example.com/workshops/</link>
+    <description>Recent content in Hallo Welt on Erkan IT Consulting</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://www.example.com/workshops/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Schulungsumbegung</title>
+      <link>https://www.example.com/workshops/schulungsumgebung/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.example.com/workshops/schulungsumgebung/</guid>
+      <description>Wenn nicht anders gewünscht bekommen alle Teilnehmer:innen einen eigenen Kubernetes Cluster. Der Zugriff erfolgt entweder:
+Via (Web)SSH Direkt vom eigenen Rechner Über eine VNC-Umgebung Wir verbringen keine Zeit mit irgendwelchen lokalen Kubernetes Clustern, so dass wir mehr Zeit für die Schulung haben. Generell ist die Schulung sehr text/terminallastig, da am Ende die Automatisierung steht werden GUIs in Ausnahmefällen (Grafana, Prometheus) eingesetzt.</description>
+    </item>
+    
+    <item>
+      <title>Themen</title>
+      <link>https://www.example.com/workshops/themen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.example.com/workshops/themen/</guid>
+      <description>Was die Themen betrifft sind wir hier sehr breit aufgestellt.
+Einstieg in Kubernetes Advanced Kubernetes Aufbau von Kubernetes Betrieb von Kubernetes GitOps u. DevOps mit Kubernetes Und was auch immer mit Kubernetes Solange es nicht um Applikationsprogrammierung geht habe ich es schon gemacht🙂</description>
+    </item>
+    
+  </channel>
+</rss>

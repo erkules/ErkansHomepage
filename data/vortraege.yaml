@@ -1,0 +1,433 @@
+years:
+  2023:
+  - conference: DevOpsCon München
+    thema: Kubernetes Workshop
+    link: https://devopscon.io/kubernetes-ecosystem/kubernetes-workshop/
+  - conference: DevOpsCon München
+    thema: Understanding Containers By Building Them On Your Own
+    link: https://devopscon.io/kubernetes-ecosystem/understanding-containers
+  - conference: DevOpsCon München
+    thema: "Crossplane: The Good, the Bad and the Ugly"
+    link: https://devopscon.io/kubernetes-ecosystem/crossplane-good-bad-ugly
+  - conference: DevOpsCon München
+    thema: Advanced Kubernetes Workshop
+    link: https://devopscon.io/kubernetes-ecosystem/advanced-kubernetes-workshop
+  - conference: DevOpsCon Berlin
+    thema: Hands-on Crossplane Workshop
+    link: https://devopscon.io/kubernetes-ecosystem/hands-on-crossplane-workshop
+  - conference: DevOpsCon Berlin
+    thema: "Sigstore: Security Next Level"
+    link: https://devopscon.io/kubernetes-ecosystem/sigstore-kubernetes-security
+  - conference: DevOpsCon Berlin
+    thema: Using Kubernetes in a Better Way
+    link: https://devopscon.io/kubernetes-ecosystem/using-kubernetes-better
+  - conference: Heise Devsec
+    thema: "DevSec  Sigstore: Security next Level"
+    link: https://www.heise-devsec.de/veranstaltung-20726-0-sigstore-security-next-level.html
+  - conference: W-Jax
+    thema: "Kubernetes: Auto-Scaling Vertikal und Horizontal"
+  - conference: W-Jax
+    thema: "Kubernetes: Mach die Kommandozeile effektiv (hands-on)"
+  - conference: Jax
+    thema: Kubernetes richtig bzw. besser nutzen
+    link: https://jax.de/cloud-container-serverless/kubernetes-requests-limits-cpu-memory-ephemeral-storage
+  - conference: Jax
+    thema: "Flagger: (Weitere) Deploymentstrategien für Kuberntes Hand-on"
+    link: https://jax.de/cloud-container-serverless/flagger-deployment-kuberntes
+  2022:
+  - conference: DevOpsCon
+    thema: No more Pod Security Policies – what now?
+    link: https://devopscon.io/https://devopscon.io/devsecops/no-more-podsecuritypolicies-what-now/
+  - conference: DevOpsCon
+    thema: Declarative clusters everywhere with CAPI (an Update)
+    link: https://devopscon.io/https://devopscon.io/kubernetes-ecosystem/declarative-clusters-everywhere-with-capi-an-update/
+  - conference: DevOpsCon
+    thema: Why is Kubernetes Enough?!
+    link: https://devopscon.io/https://devopscon.io/kubernetes-ecosystem/why-is-kubernetes-enough/
+  - conference: DevOpsCon
+    thema: Hands-on Crossplane Workshop
+    link: https://devopscon.io/https://devopscon.io/kubernetes-ecosystem/hands-on-crossplane-workshop/
+  - conference: DevOpsCon
+    thema: AMA (Ask Me Anything) (about  Kubernetes)
+    type: Session
+    link: https://devopscon.io/https://devopscon.io/kubernetes-ecosystem/ama-ask-me-anything-session-kubernetes/
+  - conference: DevOpsCon
+    thema: Kubernetes Workshop
+  - conference: ISAQB
+    thema: Kubernetes Workshop
+    link: https://conferences.isaqb.org/software-architecture-gathering/full-program/#kubernetes-workshop
+  - conference: ContainerConf
+    thema: Kubernetes für Einsteiger
+    link: https://www.containerconf.de/2022/veranstaltung-15157-0-kubernetes-fuer-einsteiger.html
+  - conference: ContainerConf
+    thema: "Sigstore: Security next Level"
+    link: https://www.containerconf.de/2022/veranstaltung-15405-0-sigstore-security-next-level.html
+  - conference: IT Security Summit
+    thema: Compliance, Security und viel mehr in Kubernetes
+    link: https://it-security-summit.de/web-und-api-security/compliance-security-und-viel-mehr-in-kubernetes/
+  - conference: Jax
+    thema: AMA (Ask Me Anything) (about Cloud Native & Kubernetes)
+    link: https://jax.de/cloud-container-serverless/ama-ask-me-anything-session-cloud-native-kubernetes/
+  - conference: Jax
+    thema: Hands-on Kubernetes Secrets
+    link: https://jax.de/cloud-container-serverless/handson-kubernetes-secrets/
+  2021:
+  - conference: DevOpsCon
+    thema: "Cluster-API: One Kubernetes to rule them all (+ArgoCD)"
+    link: https://devopscon.io/slideless/cluster-api-one-kubernetes-to-rule-them-all-argocd/
+  - conference: DevOpsCon
+    thema: "Kubernetes: Deeper Dive into Deployments"
+    link: https://devopscon.io/slideless/kubernetes-deeper-dive-into-deployments/
+  - conference: DevOpsCon
+    thema: Secrets in Kubernetes
+    link: https://devopscon.io/slideless/handson-secrets-in-kubernetes/
+  - conference: DevOpsCon
+    thema: Cluster-API
+    link: https://devopscon.io/slideless/handson-cluster-api/
+  - conference: DevOpsCon
+    thema: "OPA: Compliance für Kubernetes"
+    link: https://devopscon.io/kubernetes-ecosystem/opa-compliance-fur-kubernetes-handson/
+  - conference: DevOpsCon
+    thema: Managing Workload on Kubernetes
+    link: https://devopscon.io/kubernetes-ecosystem/hands-on-managing-workload-on-kubernetes/
+  - conference: Jax
+    thema: "Kubernetes: Deeper dive into Deployments"
+    link: https://jax.de/cloud-container-serverless/kubernetes-deeper-dive-into-deployments/
+  - conference: Jax
+    thema: "Cluster-API: One Kubernetes to rule them all (+ArgoCD)"
+    link: https://jax.de/cloud-container-serverless/cluster-api-one-kubernetes-to-rule-them-all-argocd/
+  - conference: Jax
+    thema: Deployments mit und in Kubernetes
+    link: https://jax.de/cloud-container-serverless/deployments-mit-und-in-kubernetes/
+  2020:
+  - conference: DevOpsCon
+    thema: Managing Workload on Kubernetes
+  - conference: DevOpsCon
+    thema: Kubernetes Workshop
+  - conference: IT Security Summit
+    thema: Security in Docker und Kubernetes
+    link: https://it-security-summit.de/it-security-summit/securtiy-in-docker-und-kubernete-teil-1/
+  - conference: Jax
+    thema: Fortgeschrittene Tools und Techniken im Kubernetes-Universum
+    link: https://jax.de/cloud-container-serverless/workshop-fortgeschrittene-tools-und-techniken-im-kubernetes-universum/
+    typ: Workshop
+  - conference: Jax
+    thema: Datenbanken in Docker und Kubernetes? Ja, klar!
+    link: https://jax.de/cloud-container-serverless/datenbanken-in-docker-und-kubernetes-ja-klar/
+  2019:
+  - conference: DevOpsCon
+    thema: Sicherheit Docker und K8s
+  - conference: DevOpsCon
+    thema: Ich baue mir meinen Container selbst!
+  - conference: DevOpsCon
+    thema: Kubernetes Workshop
+  - conference: DevOpsCon
+    thema: No more Pod Security Policies – what now?
+    link: https://devopscon.io/devsecops/no-more-podsecuritypolicies-what-now/
+  - conference: DevOpsCon
+    thema: Declarative clusters everywhere with CAPI (an Update)
+    link: https://devopscon.io/kubernetes-ecosystem/declarative-clusters-everywhere-with-capi-an-update/
+  - conference: DevOpsCon
+    thema: Container auf der Kommandozeile bauen
+    link: https://devopscon.io/kubernetes-ecosystem/container-auf-der-kommandozeile-bauen/
+  - conference: ContainerConf
+    thema: Einführung in Kubernetes
+    link: https://www.containerconf.de/2019/lecturefc4d.html?id=9641&source=
+  - conference: ContainerConf
+    thema: Container selber bauen
+    link: https://www.containerconf.de/2019/lecture7ff8.html?id=9146&source=
+  - conference: ContainerDays
+    thema: man nsenter
+  - conference: OSAD
+    thema: Hands On Docker - Kubernetes Security
+  - conference: OSAD
+    thema: Kubernetes Workshop
+  - conference: Jax
+    thema: "Do it yourself: Container #underthehood"
+    link: https://jax.de/cloud-container-serverless/do-it-yourself-container-underthehood/
+  - conference: Jax
+    thema: "Kubernetes: eine praktische Einführung"
+    link: https://jax.de/cloud-container-serverless/kubernetes-eine-praktische-einfuehrung/
+  2018:
+  - conference: DevOpsCon
+    thema: User-Management in Kubernetes
+  - conference: DevOpsCon
+    thema: Kubernetes 101
+  - conference: DevOpsCon
+    thema: Kubernetes Workshop
+  - conference: DevOpsCon
+    thema: Kubernetesarchitektur 101
+  - conference: DevOpsCon
+    thema: LinuxKit und K8s
+  - conference: DevOpsCon
+    thema: Using Kubernetes
+    typ: Workshop
+  - conference: ContainerConf
+    thema: Kubernetes-Sicherheit 101
+    link: https://www.containerconf.de/2018/veranstaltung-7468-kubernetes-sicherheit-1015526.html?source=&id=7468
+  - conference: ContainerConf
+    thema: Kubernetes oder das Ende des klassischen Config-Managements
+    link: https://www.containerconf.de/2018/veranstaltung-7587-kubernetes-oder-das-ende-des-klassischen-configmanagements7a5d.html?id=7587
+  - conference: ContainerDays
+    thema: HandsOn PodSecurityPolicies
+  - conference: ContainerDays
+    thema: Understanding and using PodSecurityPolicies. Let's enable and start using them
+  - conference: Jax
+    thema: Einführung in Kubernetes
+    link: https://jax.de/cloud-container-serverless/einfuehrung-in-kubernetes/
+  - conference: Jax
+    thema: Bau eigener Docker Images
+    link: https://jax.de/cloud-container-serverless/handson-bau-eigener-docker-images/
+  2017:
+  - conference: DevOpsCon
+    thema: Hands-on Docker Security
+    link: https://devopsconference.de/session/hands-on-docker-security-container-in-sicherer/
+  - conference: DevOpsCon
+    thema: Hands-on Docker Swarm Mode
+    link: https://devopsconference.de/session/hands-on-docker-swarm-mode-cluster-fur-docker/
+  - conference: DevOpsCon
+    thema: Docker Imagebau
+    type: Workshop
+  - conference: Microservices Summit
+    thema: "Docker Basics: kurz und knapp"
+    link: https://microservices-summit.de/session/docker-basics-kurz-und-knapp/
+  - conference: Microservices Summit
+    thema: (Build In) Docker Orchestration
+    link: https://microservices-summit.de/session/build-in-docker-orchestration/
+  - conference: Jax
+    thema: Einstieg in Docker
+    link: https://jax.de/session/hands-on-einstieg-in-docker/
+  - conference: Jax
+    thema: Docker im Cluster betreiben
+    link: https://jax.de/session/hands-on-docker-im-cluster-betreiben/
+  - conference: ContainerConf
+    thema: Hands-on Docker Security
+    link: https://www.containerconf.de/2017/veranstaltung-6167-hands-on-docker-security3922.html?id=6167
+  - conference: ContainerConf
+    thema: Docker Swarm Mode
+    link: https://www.containerconf.de/2017/veranstaltung-6164-docker-swarm-mode6e2e.html?id=6164
+  - conference: ContainerConf
+    thema: Docker & Security
+    link: https://www.containerconf.de/2017/veranstaltung-6166-docker-%26-security55b8.html?id=6166
+  2016:
+  - conference: IT-Tage
+    thema: Docker und MySQL/MariaDB
+    link: https://www.ittage.informatik-aktuell.de/programm/docker-und-mysqlmariadb/
+  - conference: IT-Tage
+    thema: "Docker: Nicht nur eine Infrastrukturrevolution"
+    link: https://www.ittage.informatik-aktuell.de/programm/docker-nicht-nur-eine-infrastrukturrevolution/
+  - conference: DevOpsCon
+    ort: Berlin
+    thema: Hands-On Docker Cluster mit Swarm(Kit)
+    link: https://devopsconference.de/session/hands-on-docker-cluster-mit-swarmkit/
+  - conference: DevOpsCon
+    ort: Berlin
+    thema: Hands-On Docker-Security
+    link: https://devopsconference.de/session/hands-on-docker-security/
+  - conference: DevOpsCon
+    thema: "Docker Experts Workshop: Rethink IT with Container"
+    typ: Workshop
+    link: https://devopsconference.de/session/docker-experts-workshop-rethink-it-with-containers/
+    ort: Berlin
+  - conference: DOAG
+    thema: "MySQL: HA vs. HA"
+    link: https://www.doag.org/konferenz/konferenzplaner/konferenzplaner_details.php?id=512089&locS=0&vid=524614
+  - conference: DOAG
+    thema: "systemd: Das neue (mehr als) Init-Sytem in Oracle Linux 7"
+    link: https://www.doag.org/konferenz/konferenzplaner/konferenzplaner_details.php?id=512089&locS=0&vid=524493
+  - conference: ContainerConf
+    thema: Docker im Cluster Betreiben
+    link: https://www.containerconf.de/veranstaltung-5294-docker-im-cluster-betreiben.html?id=5294
+  - conference: Docker Meetup Frankfurt
+    thema: Docker Swarm Mode
+    link: https://ww.meetup.com/de-DE/Docker-Frankfurt/events/235175184/
+    type: Meetup
+  - conference: Containerdays
+    thema: Linuxkernel features building my $CONTAINER
+    link: https://www.containerdays.de/program.html
+  - conference: SLAC
+    thema: Docker Infrastrukturen mit Docker Batteries
+    link: https://ww.heinlein-support.de/slac/2016/vortrag/docker-infrastrukturen-mit-docker-batteries
+  - conference: DevOpsCon
+    thema: Bootstrapping Docker Swarm
+    link: https://evopsconference.de/session/handson-bootstrapping-docker-swarm-mit-network-service-discovery-uvm/
+    ort: Berlin
+  - conference: DevOpsCon
+    thema: Hands-on-Docker-Security
+    link: https://evopsconference.de/session/handson-docker-security
+    ort: Berlin
+  - conference: GUUG
+    thema: World of Docker
+    link: https://guug.de/veranstaltungen/ffg2016/abstracts.html##4_9_2)
+    beschreibung: Ein Ueberblick ueber Dockertools/infrastrukturen
+  - conference: Docker Meetup Frankfurt
+    thema: Docker Swarm
+    link: https://www.meetup.com/de-DE/Docker-Frankfurt/events/228190018/
+    type: Meetup
+  2015:
+  - conference: CommitterConf
+    thema: HandsOn Docker
+  - conference: CommitterConf
+    thema: systemd-nspawn
+  - conference: OpenRheinRuhr
+    thema: HandsOn Galera
+  - conference: DevOpsCon
+    thema: Ich baue mir einen Container
+    link: https://devopsconference.de/2015/sessions/ich-baue-mir-meinen-container-selbst
+  - conference: iX OpenStack
+    thema: Docker und OpenStack
+  - conference: CLT
+    thema: Docker
+    link: https://chemnitzer.linux-tage.de/2015/de/programm/beitrag/441
+  - conference: GUUG
+    thema: Medley der Containertechniken (Kernel)
+    link: https://www.guug.de/veranstaltungen/ffg2015/abstracts.html##3_7_1
+  - conference: FOSDEM
+    thema: Docker and MySQL
+    link: https://fosdem.org/2015/schedule/event/docker_and_mysql/
+  - conference: Docker Meetup
+    thema: Docker Linking
+  2014:
+  - conference: FrOSCon
+    thema: MySQL Hochverfügbar mit Galera
+  - conference: GUUG
+    thema: LBaaS-Loadbalancer as a Service.
+  - conference: GUUG
+    thema: Medley der Containertechniken
+  - conference: DOAG
+    thema: "MySQL Replikation: Von den Anfängen in die Zukunft"
+  - conference: Docker
+    thema: Meetup  DockerHipsterHater Über die Grenzen von Docker
+  - conference: SLAC
+    thema: "Docker: LXC Applikationskontainer für jedermann"
+    link: https://www.heinlein-support.de/slac/2014/vortrag/docker-lxc-applikationskontainer-fuer-jedermann
+  - conference: Ceph Day
+    thema: "MySQL@Ceph"
+    link: 
+  - conference: Linuxtag/OpenDach
+    thema: "Docker: Not even a Hypervisor (Containers for OpenStack)"
+    link: https://www.linuxtag.org/2014/de/programm/vortragsdetails/?eventid=2436
+  2013:
+  - conference: DOAG
+    thema: Virtualisierung vom Prozessen
+    link: https://www.doag.org/konferenz/vortrag_details.php?kid=441438&tag=19-NOV-2013&id=464865
+  - conference: DOAG
+    thema: MySQL Replikation
+    link: https://www.doag.org/konferenz/vortrag_details.php?kid=441438&tag=19-NOV-2013&id=464024
+  - conference: Cephday Frankurt
+    thema: MySQL@Ceph
+  - conference: OSDC
+    thema: lxc@libvirt
+    link: https://www.netways.de/index.php?id=3730
+  - conference: Frankfurter Datenbanktage
+    thema: Baukasten MySQL
+    link: https://www.frankfurter-datenbanktage.de/index.php/programm/konferenz.html]
+  - conference: Frankfurter Datenbanktage
+    thema: Virtualisierung, Cloud Computing, Virtualisierung und Hochverfügbarkeit mit MySQL
+    link: https://www.frankfurter-datenbanktage.de/index.php/programm/schulungstag.html?id=64
+  - conference: GUUG
+    thema: "MySQL HA: Galera in the house"
+    link: https://www.guug.de/veranstaltungen/ffg2013/abstracts.html##3_2_1
+  - conference: SIG MySQL
+    thema: Overview and comparison of the replication technologies offered for MySQL
+    link: https://www.doag.org/termine/termine.php?tid=450839##
+  - conference: SIG MySQL
+    thema: Replication (overview and getting started)
+    link: httphttp//www.doag.org/termine/termine.php?tid=450839##
+  2012:
+  - conference: FrOSCon7
+    thema: "LXC: Applilcationcontainer only!"
+    link: https://programm.froscon.de/2012/events/1005.html
+  - conference: SIG MySQL
+    thema: MySQL Replication
+    link: https://www.doag.org/de/events/sigs/sig-mysql.html
+  - conference: OSDC
+    thema: Galera Multi-Master Replication
+    link: https://www.netways.de/index.php?id=306
+  - conference: OSDC
+    thema: MySQL Cluster
+    link: https://www.netways.de/index.php?id=305
+  - conference: CLT
+    thema: LinuXContainer in der Praxis
+    link: https://chemnitzer.linux-tage.de/2012/vortraege/1035
+  - conference: SIG MySQL
+    thema: Von Multi-Schema über mysqld_multi zu LXC Applikationskontainer
+    link: https://www.doag.org/termine/termine.php?tid=436778
+  - conference: SIG MySQL
+    thema: "MySQL Performance: Getting started"
+    link: https://www.doag.org/termine/termine.php?tid=436778
+  - conference: Techtalk@Telekoarmstadt
+    thema: Neue Containertechnik (LXC) am Beispiel (Eine MysQL Database on Demand Lösung)
+  - conference: GUUG
+    thema: Linux-Container
+    link: https://www.guug.de/veranstaltungen/ffg2012/abstracts.html##3_7_1
+  - conference: GUUG
+    thema: "LXC: Der Weg MySQL zu virtualisieren"
+    link: https://www.guug.de/lokal/hamburg/
+  - conference: DOAG
+    thema: Hochverfügbarkeit mit MySQL
+  2011:
+  - conference: DOAG
+    thema: MySQL kann auch NoSQL
+  - conference: DOAG
+    thema: MySQL-Partitionierung ueber Rechnergrenzen hinweg
+  - conference: FrOSCon
+    thema: LinuXContainer
+  - conference: DOAG SIG
+    thema: Cloud analysed!
+    link: https://mydoag.doag.org/termine/termine.php?tid=423270
+  - conference: LinuxTag
+    thema: MyNoSQL
+    link: https://www.linuxtag.org/2011/de/program/freies-vortragsprogr...
+  - conference: GUUG
+    thema: Baukasten MySQL
+    link: https://www.guug.de/veranstaltungen/ffg2011/abstracts.html##3_...
+  - conference: CLT
+    thema: "LXC: Des Vanilla Kernels Container"
+    link: https://chemnitzer.linux-tage.de/2011/vortraege/652
+  2010:
+  - conference: DOAG
+    thema: "MySQL Plugins: Die Vielfalt unterm Dach von MySQL"
+    link: https://mydoag.doag.org/konferenz/vortrag_details.php?tag=16....
+  - conference: OSDC
+    thema: Containervirtualisierung mit OpenVZ
+    link: https://www.netways.de/osdc/osdc_2010/program/v/container_vir...
+  - conference: GUUG
+    thema: OpenVZ Container für Linux
+    link: https://www.guug.de/veranstaltungen/ffg2010/abstracts.html##4...
+  - conference: CLT
+    thema: "(A)GPLv3: Wieso? Weshalb? Warum?"
+    link: https://chemnitzer.linux-tage.de/2010/vortraege/detail.html?i...
+  2009:
+  - conference: CLT
+    thema: OpenVZ
+    link: https://test.chemnitzer.linux-tage.de/2009/vortraege/detail.h...
+  - conference: CLT
+    thema: quo vadis MySQL
+    link: https://test.chemnitzer.linux-tage.de/2009/vortraege/detail.h...
+  2008:
+  - conference: Magdeburger OpenSource Tage
+    thema: "Das Statistikpaket GNU-R"
+  - conference: Magdeburger OpenSource Tage
+    thema: "Graphische Oberflächen für das Statistikpaket GNU-R"
+  - conference: FrOSCon
+    thema: OpenVZ Zonen unter Linux
+  - conference: Telekom
+    thema: "OpenVZ"
+  - conference: T-Online
+    thema: "Workshop: MySQL für DBAs"
+  - conference: T-Online
+    thema: "Mit GNU-R Performance deskrepitv darstellen"
+  - conference: LugFrankfurt
+    thema: "Lieber Exim"
+  2007:
+  - conference: CLT
+    thema: "Statistik ala GNU R"
+  2005:
+  - conference: CLT
+    thema: Me an my Shell (Ein Shelldiskurs)
+  - conference: CLT
+    thema: Kickstart for the Masses (Automatisierte Installation von RedHat/Fedora Farmen)
+  2004:
+  - conference: CLT
+    thema: "Exim"

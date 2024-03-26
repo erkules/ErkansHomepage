@@ -1,0 +1,42 @@
+{{ define "header_css" }}{{ end }}
+{{ define "body_classes" }}page-work-single{{ end }}
+{{ define "header_classes" }}{{ end }}
+
+{{ define "main" }}
+{{ partial "hero-image-setheight.html" (dict "background" .Params.heroBackground "heading" .Params.heroHeading "subheading" .Params.heroSubHeading "section" .Section "content" .)}}
+<div class="container pt-4 pt-md-10 pb-4 pb-md-10">
+  <div class="row justify-content-start">
+    <div class="col-12 col-md-8">
+      <div class="work work-single">
+        <div class="content">{{.Content}}</div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="container">
+  <div class="row">
+    <div class="col-12 col-md-8">
+      {{ .Content }}
+      <table>
+        {{/* range  $k,$v := ( where  .Site.Data.vortraege "Section" "years" ) */}}
+        {{ range  $k,$v :=  .Site.Data.vortraege.years }}
+
+        <tr>
+          <td >{{ $k }}</td>
+        </tr>
+        <tr>
+          <td >Konferenz </td>
+          <td >Thema</td>
+        </tr>
+          {{ range .  }}
+        <tr>
+          <td class="opens">{{ .conference }}</td>
+          <td class="day font-weight-bold">{{ .thema }}</td>
+        </tr>
+          {{ end }}
+        {{ end }}
+      </table>
+    </div>
+  </div>
+</div>
+{{ end }}

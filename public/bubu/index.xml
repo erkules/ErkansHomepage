@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bubu on Erkan IT Consulting</title>
+    <link>https://www.example.com/bubu/</link>
+    <description>Recent content in bubu on Erkan IT Consulting</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://www.example.com/bubu/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>baba</title>
+      <link>https://www.example.com/bubu/baba/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.example.com/bubu/baba/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bobo</title>
+      <link>https://www.example.com/bubu/bobo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.example.com/bubu/bobo/</guid>
+      <description>Es ist nahezu unmöglich eine Liste von Themen, welche ich beackere aufzulisten. Bitte sehen sie es mir nach, dass ich Lagacythemen - in denen ich wohl auch einiges an Erfahrung sammeln durfte - ignoriere.
+Zwar sollte ich mit meiner Erfahrung als Architekt herumspringen nur brauche ich Hands-On. Also bei Architektenprojekten mich bitte mitmachen lassen ☝️💃
+Im Grunde mache ich so viel es geht mit Kubernetes (OpenShift ungerne).
+Es fängt an dieses Aufzubauen (kubeadm, Kamaji, Cluster-API, (Crossplane (experimentell) auch in der Cloud.</description>
+    </item>
+    
+  </channel>
+</rss>

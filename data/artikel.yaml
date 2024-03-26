@@ -1,0 +1,120 @@
+- thema: Im Steigflug (Docker-Alternative Rocket)
+  year: 2017
+  magazin: iX
+  Ausgabe: 7/2017
+  link:
+
+- thema: Dirgenten fürs Blech (Docker im Cluster verwalten und orchestrieren)
+  year: 2016
+  magazin: iX
+  Ausgabe: 11/2016
+  link:
+
+- thema: Services mit Kubernetes bereitstellen
+  year: 2017
+  magazin: iX
+  Ausgabe: 2/2017
+  link:
+
+- thema: Verpacker (Desktop-Anwendungen in Containern bereitstellen)
+  year: 2016
+  magazin: iX
+  Ausgabe: 8/2016
+  link:
+
+
+- thema: Docker Tutorial Teil 1
+  year: 2016
+  magazin: iX
+  Ausgabe: 3/2016
+  link:
+
+- thema: Docker Tutorial Teil 2
+  year: 2016
+  magazin: iX
+  Ausgabe: 4/2016
+  link:
+
+- thema: Docker Tutorial Teil 3
+  year: 2016
+  magazin: iX
+  Ausgabe: 5/2016
+  link:
+- thema: Relationale Open-Soure-DBMS PostgrSQL und MariaDB
+  year: 2015
+  magazin: iX
+  link:
+  Ausgabe: 6/2015
+
+- thema: Containerhafen mit systemd-nspawn steurn
+  year: 2015
+  magazin: iX
+  Ausgabe: 11/2015
+  link:
+
+- thema: "Rasanter Aufstieg: Mit Docker Anwendungen virtualisieren"
+  year: 2014
+  magazin: iX
+  Ausgabe: 5/2014
+  link:
+
+- thema: "Freiraum: Linux-Kernel-Container LXC 1.0"
+  year: 2014
+  magazin: iX
+  Ausgabe: 2/2014
+  link:
+
+- thema: Fremde Federn schmücken (Ein Artikel zur Connect SE in MariaDB)
+  year: 2013
+  magazin: iX
+  Ausgabe: 10/2013
+  link:
+
+- thema: Wissen, was läuft (Ein Artikel zum neuen Performance Schema in MySQL)
+  year: 2013
+  magazin: iX
+  Ausgabe: 4/2013
+  link:
+
+
+- thema: Gleichheitsgrundsatz (Galera-Replikation einrichten)
+  year: 2012
+  magazin: iX
+  Ausgabe: 12/2012
+  link:
+
+
+- thema: Arbeit Teilen (Replikationsverfahren und HA für MYSQL)
+  year: 2012
+  magazin: iX
+  Ausgabe: 2012
+  link:
+
+- thema: Alternative Authentifizierung in MySQL
+  year: 2011
+  magazin: iX
+  Ausgabe: 08/2011
+  link:
+
+- thema: Duell der Container
+  year: 2013
+  magazin: Admin Magazin
+  Ausgabe: x/2013
+  link: https://www.admin-magazin.de/Online-Artikel/Technical-Review/DUELL-der-Container
+
+- thema: "HTML-Seiten mit Perl: Dynamische Webseiten mit HTML::Mason"
+  year: 2007
+  magazin: freeX
+  Ausgabe: 6/2007
+  link:
+
+- thema: "Perl in Gesellschaft: Vom Paradigma des Kontextes"
+  year: 2006
+  magazin: freeX
+  Ausgabe: 1/2006
+  link:
+- thema: "Catch me if you can: Dateien über Kernelroutinen (in C unter Linux) verstecken"
+  year: 2003
+  magazin: freeX
+  Ausgabe: 6/2003
+  link:

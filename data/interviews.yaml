@@ -1,0 +1,55 @@
+- magazin: Informatik Aktuell   
+  year: 2014    
+  thema: MySQL, MariaDB und Percona - Erkan Yanar im Gespräch 
+  link:  http://www.informatik-aktuell.de/betrieb/datenbanken/erkan-yanar-zu-mysql-oracle-und-mariadb.html
+  Ausgabe: 
+- magazin: guug
+  year: 2013
+  thema: blabla
+  link:  http://blog.guug.de/auf-ein-wort-mit-erkan-yanar/
+  Ausgabe: 
+- magazin: JAX TV
+  year:  2018
+  thema: Kubernetes/Devops
+  link:  https://www.youtube.com/watch?v=Fl5UEzlU8zk
+  Ausgabe: 
+- magazin: DevOps Conference
+  year: 2015
+  thema: Docker
+  link:  https://www.youtube.com/watch?v=Z2ShrNPKo9I
+  Ausgabe: 
+- magazin: JAX
+  year: 2018
+  thema: Kubernetes/DevOps
+  link: https://www.youtube.com/watch?v=Fl5UEzlU8zk
+  Ausgabe: 
+- magazin: DevOpsCon
+  year: 2016
+  thema: DevOps
+  link: https://www.youtube.com/watch?v=L1rkYkrZ0AM
+  Ausgabe: 
+- magazin: DevopsCon 
+  year: 2017
+  thema: Kubernetes
+  link:  https://www.youtube.com/watch?v=6CJADFFybjs
+  Ausgabe: 
+- magazin: DevOpsCon
+  year: 2019
+  thema: BlaBla
+  link: https://www.youtube.com/watch?v=WDOyjN6ZDns
+  Ausgabe: 
+- magazin: Entwickler.de
+  year: 2020
+  thema: "Docker-Kubernetes-Knative: Wie ist der Stand der Dinge"
+  link: https://entwickler.de/kubernetes/docker-kubernetes-knative-wie-ist-der-stand-der-dinge
+  Ausgabe: 
+- magazin: Admin Magazin
+  year: 2018
+  thema: Contianer
+  link: https://www.admin-magazin.de/Das-Heft/2018/09/Interview
+  Ausgabe: 09/2018
+- magazin: devops-training
+  year: 2023
+  thema: Sobald man Monitoring ernsthaft betreibt, macht man schon Observability
+  link: https://devops-training.de/blog/https-devops-training-de-blog-sobald-man-monitoring-ernsthaft-betreibt-macht-man-schon-observability/
+  Ausgabe: 
