@@ -3,7 +3,7 @@ title: 'Kubernetes all the time'
 weight: 2
 background: 'images/profil-breit.png'
 button: 'platzhalter'
-buttonLink: 'vortraege'
+buttonLink: 'oeffentlich'
 ---
 
 
