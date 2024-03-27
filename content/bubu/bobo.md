@@ -5,7 +5,7 @@ thumbnail: 'images/themen.png'
 ---
 
 
-Es ist nahezu unmöglich eine Liste von Themen, welche ich beackere aufzulisten. Bitte sehen sie es mir nach, dass ich Lagacythemen - in denen ich wohl auch einiges an Erfahrung sammeln durfte - ignoriere.
+Es ist nahezu unmöglich eine Liste von Themen, welche ich beackere aufzulisten. Bitte sehen sie es mir nach, dass ich Legacythemen - in denen ich wohl auch einiges an Erfahrung sammeln durfte - ignoriere.
 
 Zwar sollte ich mit meiner Erfahrung als Architekt herumspringen nur brauche ich Hands-On. Also bei Architektenprojekten mich bitte mitmachen lassen ☝️💃
 
