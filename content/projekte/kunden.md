@@ -29,7 +29,7 @@ Ich habe hier mal die imho bekanntesten Kunden aufgelistet.
 * lotto24
 * MariaDB
 * Pro7Sat1
-* Reifeisen
+* Raiffeisen
 * Rewe
 * RuV
 * Tengelmann
