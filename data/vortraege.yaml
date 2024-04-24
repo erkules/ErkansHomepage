@@ -1,4 +1,14 @@
 years:
+  2024:
+  - conference: Jax 
+    thema: Hands-on Wasm und Kubernetes
+    link: https://jax.de/cloud-container-serverless/hands-on-wasm-kubernetes/
+  - conference: Jax 
+    thema: Hands-on Container selber in der Shell bauen
+    link: https://jax.de/cloud-container-serverless/hands-on-container-shell-bauen/
+  - conference: Deutscher Perlworkshop
+    thema: Endstation Kubernetes
+    link: https://act.yapc.eu/gpw2024/talk/7880
   2023:
   - conference: DevOpsCon München
     thema: Kubernetes Workshop
