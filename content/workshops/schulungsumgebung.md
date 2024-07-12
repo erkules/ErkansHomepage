@@ -8,9 +8,10 @@ thumbnail: 'images/schulungsumgebung.png'
 Im Angebot: Eigenen Kubernetes Cluster für Teilnehmer:innen.
 
 Selbstredend können Schulungen in Ihrer Infrastruktur durchgeführt werden. 
-Im allgemeinen baue ich allen Teilnehmer:innen einen eigenen - produktionsnahen - Kubernetes Cluster.
+Im Allgemeinen baue ich allen Teilnehmer:innen einen eigenen - produktionsnahen - Kubernetes Cluster.
 Mir ist es sehr wichtig, dass wir keine Zeit mit der Installation von lokalen Kubernetes Clustern auf den Rechnern 
 der Teilnehmer:innen verlieren. Auch sind diese im Vergleich zu einem "richtigen" Kubernetes Cluster eher eingeschränkt.
+
 
 
 Zugang erfolgt nach Absprache via:

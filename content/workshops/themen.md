@@ -12,8 +12,6 @@ Was die Themen betrifft sind wir hier sehr breit und tief aufgestellt.
 * Aufbau von Kubernetes (On-Prem und/oder Cloud)
 * Betrieb von Kubernetes
 * GitOps u. DevOps mit Kubernetes
-* Und was auch immer mit Kubernetes
+* Und was auch immer mit Kubernetes/CNCF
 
-
-Solange es nicht um Applikationsprogrammierung geht, bekomen wir es geschult. (Es sei denn ich habe keine Erfahrung mit dem Thema.)
-
+Im Allgemeinen gilt es geht so einiges, wenn es sich nicht um Programmieren handelt :)

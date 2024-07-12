@@ -3,19 +3,32 @@
 table {
     border: 0px solid;
 }
-tr,td {
-    border: 0px solid;
+tbody {
+    font-size: 1em;
 }
-td {
-    padding: 20px;
+thead {
+    font-size: 1.5em;
+}
+tr.head,td.head {
+    border: 0px solid;
+    font-size: 1.5em;
+    text-align:     left;
+}
+
+td.mitte {
+    text-align:     left;
+    vertical-align:  top;
 }
 
 tr.zusammen {
-  border: 1px solid;
+  border: 0px solid;
 }
 td.zusammen {
-  border: 0px solid;
-  colspan: 2;
+  border:    0px solid;
+  colspan:   2;
+  color:     black;
+  font-size: 1.5em;
+  text-align:     right;
 }
 </style>
 
@@ -34,24 +47,29 @@ td.zusammen {
 
       <div class="work work-single">
       <table>
+      <thead>
+    
         {{/* range  $k,$v := ( where  .Site.Data.vortraege "Section" "years" ) */}}
         <tr>
-          <td >Konferenz </td>
-          <td >Thema</td>
+          <td class="head">Konferenz </td>
+          <td class="head">Thema</td>
         </tr>
+      </thead>
+      <tbody>
         {{ range  $k,$v :=  .Site.Data.vortraege.years }}
 
         <tr class="zusammen">
-          <td class="zusammen"  >Jahr {{ $k }}</td>
           <td>&nbsp;</td>
+          <td class="zusammen"  >Jahr {{ $k }}</td>
         </tr>
           {{ range .  }}
         <tr>
-          <td class="opens">{{ .conference }}</td>
-          <td class="day font-weight-bold">{{ .thema }}</td>
+          <td class="mitte">{{ .conference }}</td>
+          <td class="mitte">{{ .thema }}</td>
         </tr>
           {{ end }}
         {{ end }}
+      </tbody>
       </table>
 
       </div>

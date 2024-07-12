@@ -1,18 +1,18 @@
 years:
   2024:
-  - conference: DevOpsCon
+  - conference: DevOpsCon Berlin
     thema: Advanced Kubernetes Workshop
     link: https://devopscon.io/kubernetes-ecosystem/advanced-kubernetes-workshop/
-  - conference: DevOpsCon
+  - conference: DevOpsCon Berlin
     thema: "Hands-on: WebAssembly and Kubernetes"
     link: https://devopscon.io/kubernetes-ecosystem/hands-on-webassembly-kubernetes/
-  - conference: DevOpsCon
+  - conference: DevOpsCon Berlin
     thema: "Keynote: The State of DevOps: 15 Years In, Where Do We Stand? Ask the Experts...and Your Peers!"
     link: https://devopscon.io/business-company-culture/state-of-devops-ask-experts/
-  - conference: DevOpsCon
+  - conference: DevOpsCon Berlin
     thema: "Hands-on: GitOps With Flux"
     link: https://devopscon.io/continuous-delivery-automation/hands-on-gitops-flux/ 
-  - conference: DevOpsCon
+  - conference: DevOpsCon Berlin
     thema: Kubernetes Grundlagen Workshop
     link: https://devopscon.io/kubernetes-ecosystem/kubernetes-grundlagen-workshop/
   - conference: Jax 
