@@ -21,7 +21,7 @@ theme = "hugo-hero-theme"
     alt = "Erkan Yanar IT-Consulting"
 
   [params.homepage_meta_tags]
-    meta_description = "Workshops, Schulungen und Projekte mit und im Kubernetes Universum"
+    meta_description = "Consulting, Workshops, Schulungen und Projekte mit und im Kubernetes Universum"
 #    meta_og_title = "Erkan Yanar IT-Consulting"
 #    meta_og_type = "website"
 #    meta_og_url = "https://hugo-hero.netlify.app"
@@ -52,8 +52,8 @@ theme = "hugo-hero-theme"
     weight = 2
 
 [[menu.main]]
-    name = "Projekte"
-    url = "/projekte/"
+    name = "Consulting"
+    url = "/consulting/"
     weight = 2
 
 

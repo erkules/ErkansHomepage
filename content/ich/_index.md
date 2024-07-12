@@ -2,7 +2,7 @@
 title: 'me myself and I'
 date: 2018-02-10T11:52:18+07:00
 heroHeading: 'me myself and I'
-heroSubHeading: 'Zur Person'
+heroSubHeading: 'Das Ops von DevOps'
 heroBackground: 'images/profil-breit.png'
 button: 'wissenschafliches Kapital'
 buttonLink: 'vortraege'
@@ -28,7 +28,7 @@ buttonLink: 'vortraege'
 * .. usw
 
 {{< rawhtml >}}
-<a class="button button-blue" href="/oeffentlich">Was ich so öffentlich gemacht habe</a>
-<a class="button button-blue" href="/workshops">Wie sehen Workshops und Schulungen aus</a>
-<a class="button button-blue" href="/projekte">Projekte mit mir</a>
+<a class="button button-blue" href="/oeffentlich">Vorträge, Interviews und Artikel</a>
+<a class="button button-blue" href="/workshops">Workshops und Schulungen</a>
+<a class="button button-blue" href="/consulting">DevOps Consulting</a>
 {{< /rawhtml >}}
