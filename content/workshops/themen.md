@@ -1,7 +1,7 @@
 ---
 title: Themen
 heroHeading: 'Themen'
-heroBackground: 'images/themen.png'
+heroBackground: 'images/wolke.png'
 thumbnail: 'images/themen.png'
 ---
 

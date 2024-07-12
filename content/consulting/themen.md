@@ -1,22 +1,27 @@
 ---
-title: Projektthemen
-heroHeading: 'Projektthemen'
-heroBackground: 'images/themen2.png'
-thumbnail: 'images/themen2.png'
+title: Topics
+heroHeading: 'Topics'
+heroBackground: 'images/wolke.png'
+thumbnail: 'images/wolke.png'
+#thumbnail: 'images/themen2.png'
 ---
 
 
+Der Schwerpunkt ist der [CNCF Landscape](https://landscape.cncf.io/).
 
-Es ist nahezu unmöglich eine Liste von Themen, welche ich beackere aufzulisten. Bitte sehen Sie es mir nach, dass ich Legacythemen - in denen ich wohl auch einiges an Erfahrung sammeln durfte - ignoriere.
+In diesem Rahmen können wir auch gerne auf meine Erfahrung als Linux- und Datenbankadmin zugreifen.
+
+Ideen was wir gerne machen können:
 
 
 
-* Nur Kubernetes Ökosystem (selbst OpenShift ungerne). 
-* Wenn Architekt, dann mit hohem  Hands-On Anteil.
-* Clusterbau (auch in der Cloud).
+* Kubernetes Ökosystem (OpenShift).
+* Wenn Architekt, dann mit hohem Hands-On Anteil.
+* Clusterbau on-Prem und in der Cloud).
 * DevOps, DevSecOps, DevAdev
 * Nach Kubernetes zu migrieren (Infra und Applikation)
-* Betrieb von Kubernetes (von Betreiben bis zum Standardisieren).
+* Betrieb von Kubernetes/OpenShift
+* Standardisierung von Kubernetes/OpenShift
 * Evaluation und Prototyping
 
 
