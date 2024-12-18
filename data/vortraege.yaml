@@ -1,5 +1,32 @@
 years:
   2024:
+  - conference: DevOpsCon München
+    thema: Kubernetes Grundlagen Workshop
+    link: https://devopscon.io/kubernetes-ecosystem/kubernetes-grundlagen-workshop/
+  - conference: DevOpsCon München
+    thema: "Kyverno: Compliance, Security, and Much More in Kubernetes"
+    link: https://devopscon.io/kubernetes-ecosystem/kyverno-compliance-security-kubernetes/
+  - conference: DevOps Day 2024 (Windhoff Group)
+    thema: "Keynote: Kubernetes: One Size fits all"
+    link: https://dev-ops.windhoff-group.de/devops-day-2024?utm_content=307948378&utm_medium=social&utm_source=linkedin&hss_channel=lcp-79004542
+  - conference: DevOpsCon München
+    thema: Advanced Kubernetes Workshop
+    link: https://devopscon.io/kubernetes-ecosystem/advanced-kubernetes-workshop/
+  - conference: IT Security Summit
+    thema: Primer on eBPF
+    link: https://it-security-summit.de/devsecsops/primar-ebpf-kubernetes-ecosystem/
+  - conference: Continuous Lifecycle
+    thema: Kubernetes Workloads betreiben (Workshop)
+    link: https://www.continuouslifecycle.de/veranstaltung-22510-0-kubernetes-workloads-betreiben.html
+  - conference: Continuous Lifecycle
+    thema: WebAssembly in Kubernetes 
+    link: WebAssembly in Kubernetes 
+  - conference: Continuous Lifecycle
+    thema: "eBPF: Mit Linux-Bytecode Kubernetes überwachen"
+    link: https://www.continuouslifecycle.de/veranstaltung-22510-0-kubernetes-workloads-betreiben.html
+  - conference: heise DevSec
+    thema: "eBPF: Mit Linux-Bytecode Kubernetes überwachen"
+    link: https://www.heise-devsec.de/veranstaltung-22293-0-ebpf-mit-linux-bytecode-kubernetes-ueberwachen.html
   - conference: DevOpsCon Berlin
     thema: Advanced Kubernetes Workshop
     link: https://devopscon.io/kubernetes-ecosystem/advanced-kubernetes-workshop/
