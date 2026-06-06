@@ -1,3 +1,16 @@
+
+- thema: "Kubernetes: Der Weg von der Ingress API zur Gateway API"
+  year: 2026
+  magazin: iX
+  Ausgabe: x/2026
+  link: https://www.heise.de/hintergrund/Kubernetes-Der-Weg-von-der-Ingress-API-zur-Gateway-API-11164468.html
+
+- thema: Kubernetes Cluster managen (CAPI)
+  year: 2025
+  magazin: Javamagazin
+  Ausgabe: 5/2025
+  link:
+
 - thema: Im Steigflug (Docker-Alternative Rocket)
   year: 2017
   magazin: iX
