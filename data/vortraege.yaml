@@ -1,5 +1,24 @@
 years:
+  2026:
+    - conference: DevOpsCon Berlin
+      thema: Shift Left with Kro
+      link:  https://devopscon.io/kubernetes-ecosystem/kro-kubernetes-resource-orchestrator-shift-left/
+    - conference: DevOpsCon Berlin
+      thema: "Workshop: Sovereign IT with Kubernetes"
+      link: https://devopscon.io/kubernetes-ecosystem/workshop-sovereign-it-kubernetes/
+    - conference: Guug Frühjahrsgespräche
+      thema: BSI@Kubernetes
+      link:  https://guug.de/veranstaltung/ffg2026/programm/
   2025:
+    - conference: W-Jax Munich
+      thema: "Abhängigkeitsmanagement mit Renovate: Helmcharts, Docker & mehr"
+      link:  ja
+    - conference: W-Jax Munich
+      thema:  "Kubernetes Pods: mehr als nur Container-Hüllen"
+      link:  ja
+    - conference: Entwickler Summit
+      thema: Kubernetes => One Size Fits all - the Platform for Everything (even Containers)
+      link: ja
     - conference: DevOpsCon Berlin
       thema: Managing Kubernetes Cluster (Farms)
       link: https://devopscon.io/camps/live-event-kubernetes-cluster/

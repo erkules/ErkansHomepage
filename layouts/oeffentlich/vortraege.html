@@ -25,10 +25,10 @@ tr.zusammen {
 }
 td.zusammen {
   border:    0px solid;
-  colspan:   2;
   color:     black;
   font-size: 1.5em;
-  text-align:     right;
+  text-align:     left;
+  background-color: #74992e;
 }
 </style>
 
@@ -59,8 +59,7 @@ td.zusammen {
         {{ range  $k,$v :=  .Site.Data.vortraege.years }}
 
         <tr class="zusammen">
-          <td>&nbsp;</td>
-          <td class="zusammen"  >Jahr {{ $k }}</td>
+          <td class="zusammen" colspan="3" >Jahr {{ $k }}</td>
         </tr>
           {{ range .  }}
         <tr>
@@ -94,7 +93,7 @@ td.zusammen {
 {{ $library := resources.Get "js/libs/library.js" }}
 {{ $services := resources.Get "js/pages/services.js" }}
 {{ $servicesJS := slice $library $services |resources.Concat "js/services.js" }}
-{{ if .Site.IsServer }}
+{{ if hugo.IsServer }}
   <script type="text/javascript" src="{{ $servicesJS.RelPermalink }}"></script>
   {{ else }}
   <script type="text/javascript" src="{{ ($servicesJS | minify | fingerprint).RelPermalink }}"></script>

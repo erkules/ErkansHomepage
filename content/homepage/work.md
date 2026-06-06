@@ -1,15 +1,21 @@
 ---
-title: 'Kubernetes all the time'
+title: 'Kubernetes Consulting, Schulungen und Audits'
 weight: 2
 background: 'images/profil-breit.png'
 button: 'DrückMich'
 buttonLink: 'oeffentlich'
 ---
 
+Ich unterstütze Unternehmen bei der Einführung,
+dem Betrieb und der Weiterentwicklung von Kubernetes-Plattformen.
 
+Leistungen:
 
-* Ob wir Kubernetes aufbauen oder nutzen wollen. 
-* Ob in der Cloud oder On-Premise.
-* Ich begleite/zeige wie wir Kubernetes als Rechenzentrum verstehen können.
-* Und das egal ob in den Tiefen des Systems (Kernel-Level/OS)
-* Oder "voll ausgebaut" (ServiceMesh, Monitoring, Tracing, GitOps ..) für die beste Möglichkeit eigene Applikationen zu betreiben.
+- Kubernetes Consulting und Architekturberatung
+- Kubernetes Schulungen und Workshops
+- GitOps mit Flux und ArgoCD
+- Kubernetes Security Audits
+- Cluster API und Plattformautomatisierung
+- Observability mit Prometheus, Grafana und OpenTelemetry
+- Cloud und On-Premise Kubernetes
+
