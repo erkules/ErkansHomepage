@@ -1,0 +1,64 @@
+{{ define "main" }}
+
+<style>
+.blog-post {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 6rem 2rem 2rem;
+}
+
+.blog-post h1 {
+  margin-bottom: .5rem;
+}
+
+.blog-meta {
+  color: #777;
+  margin-bottom: 2rem;
+}
+
+.blog-content {
+  line-height: 1.8;
+}
+
+.blog-content img {
+  max-width: 100%;
+  height: auto;
+}
+
+.blog-tags {
+  margin-top: 2rem;
+}
+
+.blog-tag {
+  display: inline-block;
+  padding: .3rem .7rem;
+  margin-right: .5rem;
+  border-radius: 999px;
+  background: #eee;
+  font-size: .85rem;
+}
+</style>
+
+<article class="blog-post">
+
+  <h1>{{ .Title }}</h1>
+
+  <div class="blog-meta">
+    {{ .Date.Format "02.01.2006" }}
+  </div>
+
+  <div class="blog-content">
+    {{ .Content }}
+  </div>
+
+  {{ with .Params.tags }}
+  <div class="blog-tags">
+    {{ range . }}
+      <span class="blog-tag">{{ . }}</span>
+    {{ end }}
+  </div>
+  {{ end }}
+
+</article>
+
+{{ end }}

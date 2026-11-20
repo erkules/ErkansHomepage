@@ -3,7 +3,7 @@ title: 'Kubernetes Consulting, Schulungen und Audits'
 weight: 2
 background: 'images/profil-breit.png'
 button: 'DrückMich'
-buttonLink: 'oeffentlich'
+buttonLink: 'trainer'
 ---
 
 Ich unterstütze Unternehmen bei der Einführung,

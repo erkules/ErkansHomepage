@@ -1,5 +1,12 @@
 years:
-  2026:
+  - year: 2026
+    talks:
+    - conference: Proxday
+      thema: "CAPI: Deklarativ Kubernetes auf Proxmox ausrollen"
+      link:  https://2026.proxday.de/talks/erkan-yanar-capi/
+    - conference: Entwickler Summit
+      thema: Kubernetes und das BSI
+      link:  https://entwickler.de/entwickler-summit/#programm
     - conference: DevOpsCon Berlin
       thema: Shift Left with Kro
       link:  https://devopscon.io/kubernetes-ecosystem/kro-kubernetes-resource-orchestrator-shift-left/
@@ -9,7 +16,8 @@ years:
     - conference: Guug Frühjahrsgespräche
       thema: BSI@Kubernetes
       link:  https://guug.de/veranstaltung/ffg2026/programm/
-  2025:
+  - year: 2025
+    talks:
     - conference: W-Jax Munich
       thema: "Abhängigkeitsmanagement mit Renovate: Helmcharts, Docker & mehr"
       link:  ja
@@ -32,7 +40,8 @@ years:
       thema: Primer on eBPF
       link: https://it-security-summit.de/devsecsops/primar-ebpf-kubernetes-ecosystem/
 
-  2024:
+  - year: 2024
+    talks:
     - conference: DevOpsCon München
       thema: Kubernetes Grundlagen Workshop
       link: https://devopscon.io/kubernetes-ecosystem/kubernetes-grundlagen-workshop/
@@ -84,7 +93,8 @@ years:
     - conference: Deutscher Perlworkshop
       thema: Endstation Kubernetes
       link: https://act.yapc.eu/gpw2024/talk/7880
-  2023:
+  - year: 2023
+    talks:
     - conference: DevOpsCon München
       thema: Kubernetes Workshop
       link: https://devopscon.io/kubernetes-ecosystem/kubernetes-workshop/
@@ -119,7 +129,8 @@ years:
     - conference: Jax
       thema: "Flagger: (Weitere) Deploymentstrategien für Kuberntes Hand-on"
       link: https://jax.de/cloud-container-serverless/flagger-deployment-kuberntes
-  2022:
+  - year: 2022
+    talks:
     - conference: DevOpsCon
       thema: No more Pod Security Policies – what now?
       link: https://devopscon.io/https://devopscon.io/devsecops/no-more-podsecuritypolicies-what-now/
@@ -156,7 +167,8 @@ years:
     - conference: Jax
       thema: Hands-on Kubernetes Secrets
       link: https://jax.de/cloud-container-serverless/handson-kubernetes-secrets/
-  2021:
+  - year: 2021
+    talks:
     - conference: DevOpsCon
       thema: "Cluster-API: One Kubernetes to rule them all (+ArgoCD)"
       link: https://devopscon.io/slideless/cluster-api-one-kubernetes-to-rule-them-all-argocd/
@@ -184,7 +196,8 @@ years:
     - conference: Jax
       thema: Deployments mit und in Kubernetes
       link: https://jax.de/cloud-container-serverless/deployments-mit-und-in-kubernetes/
-  2020:
+  - year: 2020
+    talks:
     - conference: DevOpsCon
       thema: Managing Workload on Kubernetes
     - conference: DevOpsCon
@@ -199,7 +212,8 @@ years:
     - conference: Jax
       thema: Datenbanken in Docker und Kubernetes? Ja, klar!
       link: https://jax.de/cloud-container-serverless/datenbanken-in-docker-und-kubernetes-ja-klar/
-  2019:
+  - year: 2019
+    talks:
     - conference: DevOpsCon
       thema: Sicherheit Docker und K8s
     - conference: DevOpsCon
@@ -233,7 +247,8 @@ years:
     - conference: Jax
       thema: "Kubernetes: eine praktische Einführung"
       link: https://jax.de/cloud-container-serverless/kubernetes-eine-praktische-einfuehrung/
-  2018:
+  - year: 2018
+    talks:
     - conference: DevOpsCon
       thema: User-Management in Kubernetes
     - conference: DevOpsCon
@@ -263,7 +278,8 @@ years:
     - conference: Jax
       thema: Bau eigener Docker Images
       link: https://jax.de/cloud-container-serverless/handson-bau-eigener-docker-images/
-  2017:
+  - year: 2017
+    talks:
     - conference: DevOpsCon
       thema: Hands-on Docker Security
       link: https://devopsconference.de/session/hands-on-docker-security-container-in-sicherer/
@@ -294,7 +310,8 @@ years:
     - conference: ContainerConf
       thema: Docker & Security
       link: https://www.containerconf.de/2017/veranstaltung-6166-docker-%26-security55b8.html?id=6166
-  2016:
+  - year: 2016
+    talks:
     - conference: IT-Tage
       thema: Docker und MySQL/MariaDB
       link: https://www.ittage.informatik-aktuell.de/programm/docker-und-mysqlmariadb/
@@ -349,7 +366,8 @@ years:
       thema: Docker Swarm
       link: https://www.meetup.com/de-DE/Docker-Frankfurt/events/228190018/
       type: Meetup
-  2015:
+  - year: 2015
+    talks:
     - conference: CommitterConf
       thema: HandsOn Docker
     - conference: CommitterConf
@@ -372,7 +390,8 @@ years:
       link: https://fosdem.org/2015/schedule/event/docker_and_mysql/
     - conference: Docker Meetup
       thema: Docker Linking
-  2014:
+  - year: 2014
+    talks:
     - conference: FrOSCon
       thema: MySQL Hochverfügbar mit Galera
     - conference: GUUG
@@ -388,11 +407,12 @@ years:
       link: https://www.heinlein-support.de/slac/2014/vortrag/docker-lxc-applikationskontainer-fuer-jedermann
     - conference: Ceph Day
       thema: "MySQL@Ceph"
-      link:
+      link: ..
     - conference: Linuxtag/OpenDach
       thema: "Docker: Not even a Hypervisor (Containers for OpenStack)"
       link: https://www.linuxtag.org/2014/de/programm/vortragsdetails/?eventid=2436
-  2013:
+  - year: 2013
+    talks:
     - conference: DOAG
       thema: Virtualisierung vom Prozessen
       link: https://www.doag.org/konferenz/vortrag_details.php?kid=441438&tag=19-NOV-2013&id=464865
@@ -419,7 +439,9 @@ years:
     - conference: SIG MySQL
       thema: Replication (overview and getting started)
       link: httphttp//www.doag.org/termine/termine.php?tid=450839##
-  2012:
+  - year: 2012
+    talks:
+    - conference: DOAG
     - conference: FrOSCon7
       thema: "LXC: Applilcationcontainer only!"
       link: https://programm.froscon.de/2012/events/1005.html
@@ -451,7 +473,9 @@ years:
       link: https://www.guug.de/lokal/hamburg/
     - conference: DOAG
       thema: Hochverfügbarkeit mit MySQL
-  2011:
+  - year: 2011
+    talks:
+    - conference: DOAG
     - conference: DOAG
       thema: MySQL kann auch NoSQL
     - conference: DOAG
@@ -470,7 +494,9 @@ years:
     - conference: CLT
       thema: "LXC: Des Vanilla Kernels Container"
       link: https://chemnitzer.linux-tage.de/2011/vortraege/652
-  2010:
+  - year: 2010
+    talks:
+    - conference: DOAG
     - conference: DOAG
       thema: "MySQL Plugins: Die Vielfalt unterm Dach von MySQL"
       link: https://mydoag.doag.org/konferenz/vortrag_details.php?tag=16....
@@ -483,14 +509,18 @@ years:
     - conference: CLT
       thema: "(A)GPLv3: Wieso? Weshalb? Warum?"
       link: https://chemnitzer.linux-tage.de/2010/vortraege/detail.html?i...
-  2009:
+  - year: 2009
+    talks:
+    - conference: DOAG
     - conference: CLT
       thema: OpenVZ
       link: https://test.chemnitzer.linux-tage.de/2009/vortraege/detail.h...
     - conference: CLT
       thema: quo vadis MySQL
       link: https://test.chemnitzer.linux-tage.de/2009/vortraege/detail.h...
-  2008:
+  - year: 2008
+    talks:
+    - conference: DOAG
     - conference: Magdeburger OpenSource Tage
       thema: "Das Statistikpaket GNU-R"
     - conference: Magdeburger OpenSource Tage
@@ -505,14 +535,20 @@ years:
       thema: "Mit GNU-R Performance deskrepitv darstellen"
     - conference: LugFrankfurt
       thema: "Lieber Exim"
-  2007:
+  - year: 2007
+    talks:
+    - conference: DOAG
     - conference: CLT
       thema: "Statistik ala GNU R"
-  2005:
+  - year: 2005
+    talks:
+    - conference: DOAG
     - conference: CLT
       thema: Me an my Shell (Ein Shelldiskurs)
     - conference: CLT
       thema: Kickstart for the Masses (Automatisierte Installation von RedHat/Fedora Farmen)
-  2004:
+  - year: 2004
+    talks:
+    - conference: DOAG
     - conference: CLT
       thema: "Exim"

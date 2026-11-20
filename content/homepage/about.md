@@ -3,7 +3,7 @@ title: 'Erkan Yanar'
 weight: 1
 background: 'images/profil-breit.png'
 button: 'Zu mir'
-buttonLink: 'ich'
+buttonLink: 'trainer'
 ---
 
 Alles hier steht und fällt mit meiner Person. 

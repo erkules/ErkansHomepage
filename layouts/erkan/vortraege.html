@@ -1,0 +1,102 @@
+{{ define "header_css" }}
+<style>
+table {
+    border: 0px solid;
+}
+tbody {
+    font-size: 1em;
+}
+thead {
+    font-size: 1.5em;
+}
+tr.head,td.head {
+    border: 0px solid;
+    font-size: 1.5em;
+    text-align:     left;
+}
+
+td.mitte {
+    text-align:     left;
+    vertical-align:  top;
+}
+
+tr.zusammen {
+  border: 0px solid;
+}
+td.zusammen {
+  border:    0px solid;
+  color:     black;
+  font-size: 1.5em;
+  text-align:     left;
+  background-color: #74992e;
+}
+</style>
+
+{{ end }}
+{{ define "body_classes" }}page-work-single{{ end }}
+{{ define "header_classes" }}{{ end }}
+
+{{ define "main" }}
+{{ partial "hero-image-setheight.html" (dict "background" .Params.heroBackground "heading" .Params.heroHeading "subheading" .Params.heroSubHeading "section" .Section "content" .)}}
+<div class="container pt-4 pt-md-10 pb-4 pb-md-10">
+  <div class="row justify-content-start">
+    <div class="col-12 col-md-8">
+      <div class="work work-single">
+        <div class="content">{{.Content}}</div>
+      </div>
+
+      <div class="work work-single">
+      <table>
+      <thead>
+    
+        {{/* range  $k,$v := ( where  .Site.Data.vortraege "Section" "years" ) */}}
+        <tr>
+          <td class="head">Konferenz </td>
+          <td class="head">Thema</td>
+        </tr>
+      </thead>
+      <tbody>
+        {{/* range  $k,$v :=  .Site.Data.vortraege.years */}}
+        {{ range .Site.Data.vortraege.years }}
+
+        <tr class="zusammen">
+          <td class="zusammen" colspan="3" >Jahr {{ .year }}</td>
+        </tr>
+          {{ range .talks  }}
+        <tr>
+          <td class="mitte">{{ .conference }}</td>
+          <td class="mitte">{{ .thema }}</td>
+        </tr>
+          {{ end }}
+        {{ end }}
+      </tbody>
+      </table>
+
+      </div>
+    </div>
+    {{ if .Params.images }}
+    <div class="col-12 pt-4 pt-md-10">
+      <h2 class="mb-2 text-uppercase">Gallery</h2>
+      <div class="masonry">
+        {{ range .Params.images }}
+          <div class="work-image item">
+            <img src="{{ . | relURL }}"/>
+          </div>
+        {{ end }}
+      </div>
+    </div>
+    {{ end }}
+  </div>
+</div>
+{{ end }}
+
+{{ define "footer_js" }}
+{{ $library := resources.Get "js/libs/library.js" }}
+{{ $services := resources.Get "js/pages/services.js" }}
+{{ $servicesJS := slice $library $services |resources.Concat "js/services.js" }}
+{{ if hugo.IsServer }}
+  <script type="text/javascript" src="{{ $servicesJS.RelPermalink }}"></script>
+  {{ else }}
+  <script type="text/javascript" src="{{ ($servicesJS | minify | fingerprint).RelPermalink }}"></script>
+  {{ end }}
+{{ end }}

@@ -2,13 +2,16 @@
 title: 'me myself and I'
 date: 2018-02-10T11:52:18+07:00
 heroHeading: 'me myself and I'
-heroSubHeading: 'Das Ops von DevOps'
+heroSubHeading: 'Nerd by Nature'
 heroBackground: 'images/profil-breit.png'
 button: 'wissenschafliches Kapital'
 buttonLink: 'vortraege'
+aliases:
+- /oeffentlich/
 ---
 
 
+<!--
 * Diplom Soziologe
 * Mathestudium abgebrochen (Ausrede hier einfügen)
 * Old School Opensource Admin
@@ -26,9 +29,12 @@ buttonLink: 'vortraege'
 * Bin im Advisory Board der DevOpsCon und Containerdays (hier war)
 * Baue gerne POCs 
 * .. usw
+-->
 
+<!--
 {{< rawhtml >}}
 <a class="button button-blue" href="/oeffentlich">Vorträge, Interviews und Artikel</a>
 <a class="button button-blue" href="/workshops">Workshops und Schulungen</a>
 <a class="button button-blue" href="/consulting">DevOps Consulting</a>
 {{< /rawhtml >}}
+-->

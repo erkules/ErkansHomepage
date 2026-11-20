@@ -10,4 +10,3 @@ thumbnail: 'images/artikel.png'
 ---
 
 
-Das Schreiben von Artikeln habe ich aufgegeben. Der Aufwand ist mir zu groß. Zumindest eine nette Anzahl ist doch zusammen gekommen.

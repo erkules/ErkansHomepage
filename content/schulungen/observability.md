@@ -1,0 +1,8 @@
+---
+title: Obervability
+heroHeading: 'Obervability'
+weg-heroBackground: 'images/wolke.png'
+weg-thumbnail: 'images/themen.png'
+weight: 15 
+---
+

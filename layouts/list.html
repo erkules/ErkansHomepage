@@ -1,0 +1,62 @@
+{{ define "main" }}
+
+<style>
+.blog-list {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 6rem 2rem 2rem;
+}
+
+.blog-card {
+  border: 1px solid #ddd;
+  border-radius: 12px;
+  padding: 1.5rem;
+  margin-bottom: 1.5rem;
+  transition: transform .2s ease, box-shadow .2s ease;
+}
+
+.blog-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 4px 12px rgba(0,0,0,.1);
+}
+
+.blog-card h2 {
+  margin-top: 0;
+}
+
+.blog-card a {
+  text-decoration: none;
+}
+
+.blog-date {
+  color: #777;
+  font-size: .9rem;
+}
+
+.blog-summary {
+  margin-top: 1rem;
+}
+</style>
+
+<div class="blog-list">
+  <h1>{{ .Title }}</h1>
+
+  {{ range .Pages.ByDate.Reverse }}
+  <article class="blog-card">
+    <h2>
+      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+    </h2>
+
+    <div class="blog-date">
+      {{ .Date.Format "02.01.2006" }}
+    </div>
+
+    <div class="blog-summary">
+      {{ .Summary }}
+    </div>
+  </article>
+  {{ end }}
+
+</div>
+
+{{ end }}

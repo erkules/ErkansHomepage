@@ -1,0 +1,15 @@
+<div class="work work-summary">
+  {{ if .Params.thumbnail }}
+  <div class="work-image">
+    <a href="{{ .RelPermalink }}"><img src="{{ .Params.thumbnail | relURL }}"    style="width:100%;height:237px;object-fit:cover;display:block;"/></a>
+  </div>
+  {{ end }}
+  <div class="work-content">
+    <h2 class="work-title">
+      <a href="{{ .Permalink }}">{{ .Title }}</a>
+    </h2>
+<!--
+    {{ .Content | truncate 120 "..." | plainify }}
+-->
+  </div>
+</div>

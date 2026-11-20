@@ -9,5 +9,4 @@ heroBackground: 'images/interview.png'
 thumbnail: 'images/interview.png'
 ---
 
-Da schwirren wohl noch mehr Interviews herum.
 

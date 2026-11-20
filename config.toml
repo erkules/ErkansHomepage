@@ -36,42 +36,46 @@ theme = "hugo-hero-theme"
 #	url = "/services/"
 #    weight = 1
 
-#[[menu.main]]
-#	name = "Blog"
-#	url = "/blog/"
-#    weight = 1
+[[menu.main]]
+	name = "Blog"
+	url = "/blog/"
+    weight = 1
 
 [[menu.main]]
 	name = "Schulungen"
-	url = "/workshops/"
+	url = "/schulungen/"
     weight = 2
 
-[[menu.main]]
-    name = "Vorträge etc."
-    url = "/oeffentlich/"
-    weight = 2
+#[[menu.main]]
+#    name = "Vorträge etc."
+#    url = "/oeffentlich/"
+#    weight = 2
 
 [[menu.main]]
     name = "Consulting"
     url = "/consulting/"
     weight = 2
 
+[[menu.main]]
+    name = "Audits"
+    url = "/audits/"
+    weight = 3
 
 [[menu.main]]
-    name = "Ich"
-    url = "/ich/"
-    weight = 3
+    name = "Erkan"
+    url = "/erkan/"
+    weight = 4
 
 
 [[menu.main]]
     name = "Kontakt"
     url = "/kontakt/"
-    weight = 4
+    weight = 5
 
 [[menu.main]]
     name = "Impressum"
     url = "/impressum/"
-    weight = 5
+    weight = 6
 
 [permalinks]
   post = "/:year/:month/:day/:slug/"

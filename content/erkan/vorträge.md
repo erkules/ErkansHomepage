@@ -10,5 +10,4 @@ heroBackground: 'images/spotlight.png'
 thumbnail: 'images/spotlight.png'
 ---
 
-Die große Anzahl an DevOpsCon ist verwirrend. Dabei handelt es sich immer um zwei Konferenzen im Jahr. 
 
